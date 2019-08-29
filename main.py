@@ -8,7 +8,7 @@ from sys import argv
 default = 1  # default maze difficulty level if no parameter is passed
 level = int(argv[1]) if len(argv) > 1 else default
 
-filename = "./maze_images/maze" + str(level) + ".png"
+filename = "./maze-images/maze" + str(level) + ".png"
 
 print("\n----ATTEMPTING MAZE LEVEL {}----------------------------------------------------------".format(level))
 
