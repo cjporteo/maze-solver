@@ -22,3 +22,4 @@ We will be presented with the following graphic and textual output:
 
  - For a maze to be considered valid by the solver, the entrance/exit cells must be located on the sides of the maze, opposing each other.
  - Currently, only BFS is employed as a solution method. Next steps for this project would be to incorporate more sophisticated maze solving algorithms. *Dijkstra* and *A** come to mind. However, the computational overhead required to initialize the maze as a graph structure may counteract optimization these algorithms would provide.
+
