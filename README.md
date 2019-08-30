@@ -14,7 +14,9 @@ To solve a specific maze, for example *maze2.png*, we do:
 ``$ python3 main.py 2`` 
 <br>
 We will be presented with the following graphic and textual output:
+
 <br>
+
 ![Unsolved](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.15752-9/69257536_2298413867088480_894433514986930176_n.png?_nc_cat=104&_nc_oc=AQkZHIc42OQl1eJJmXgTM9X8mENWtLx22gMhASygLRxFczLom_W0azkce4adbCoSdzs&_nc_ht=scontent-yyz1-1.xx&oh=1238cdc8f846ae84aa18470f12835f8e&oe=5E0E194A)<br>
 ![enter image description here](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.15752-9/68472252_2462414593795633_3420680132568809472_n.png?_nc_cat=111&_nc_oc=AQmFHjFsfa1Y6KmdlKGLkdGnbdCJZyMjxrnXHjAUfAO-YBprrxAG5lDj7WjXWKo1Pgo&_nc_ht=scontent-yyz1-1.xx&oh=1d7885c57c7b1d7a85e45174ee0e08c8&oe=5E0955A4)<br>
 ![Solved](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.15752-9/69507639_2388532594549525_2880544336754245632_n.png?_nc_cat=110&_nc_oc=AQlfjt3OhjNjBlODYbZ5cjOSIqDT2Acs87UG3DGSnLtHdBpu1YYJfjSeRU8DNMyB2oo&_nc_ht=scontent-yyz1-1.xx&oh=2be7f6a311fa5cf6497ad21479a8c393&oe=5E04BFE9)<br>
