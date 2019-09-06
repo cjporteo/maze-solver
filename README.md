@@ -8,7 +8,7 @@ This solver will find and display the shortest entrance-to-exit path when provid
 ``$ pip3 install pillow`` (for image processing/display)
 
 ## Functionality
-Included are 11 unsolved mazes. These were generated from https://keesiemeijer.github.io/maze-generator/. They range in complexity from *maze1.png* being 20 x 20 cells to *maze2.png* being 1600 x 1600 cells.
+Included are 11 unsolved mazes. These were generated from https://keesiemeijer.github.io/maze-generator/. They range in complexity from *maze1.png* being 20 x 20 cells to *maze11.png* being 1600 x 1600 cells.
 
 To solve a specific maze, for example *maze2.png*, we do:
 ``$ python3 main.py 2`` 
